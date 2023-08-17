@@ -1,16 +1,5 @@
-# calc_imc_dio
+# Calculadora IMC
 
-A new Flutter project.
+## Desafio DIO Bootcamp Flutter 
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![teste calc imc dio](https://github.com/michelgm/calc_imc_dio/assets/99933941/5db49e25-4483-47b6-8a1f-79debd14b3a9)
